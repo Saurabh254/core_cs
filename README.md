@@ -1,1 +1,1 @@
-#Computer networks
+# Core Computer Science Notes
