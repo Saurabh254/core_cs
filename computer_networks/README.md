@@ -6,7 +6,6 @@
 ### Table of content
 
 - <a href='./chapter_1.md'> Chapter 1: Computer Networks and the internet </a>
-  - what is internet
 - <a href='./chapter_2.md'> Chapter 2: Computer Networks and the internet </a>
 - <a href='./chapter_3.md'> Chapter 3: Computer Networks and the internet </a>
 - <a href='./chapter_4.md'> Chapter 4: Computer Networks and the internet </a>
