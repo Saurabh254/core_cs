@@ -1,9 +1,7 @@
 # 1.1 What is the Internet
 
 
--  When one end system has data to send to another end system, the sending end system
-segments the data and adds header bytes to each segment. The resulting packages of information,
-known as **packets**.
+-  When one end system has data to send to another end system, then the sending data system divides the packet into segments then adds the header bytes to form the packet.
 
 -  **packet = segment + header**
 
